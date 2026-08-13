@@ -98,7 +98,7 @@ Achievements are unlocked based on habit activity and progress.
 
 ### 🤖 AI Coach
 
-Mesupreme includes an optional AI Coach powered by the Anthropic Claude API.
+Mesupreme includes an optional AI Coach.
 
 The AI Coach can provide:
 
