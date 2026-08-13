@@ -1,0 +1,18 @@
+{
+  "name": "Mesupreme Habit Tracker",
+  "short_name": "Mesupreme",
+  "description": "Track habits, build streaks, win every day.",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#03060d",
+  "theme_color": "#03060d",
+  "categories": ["productivity", "lifestyle", "health"],
+  "icons": [
+    { "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ],
+  "shortcuts": [
+    { "name": "Focus Mode", "url": "/?tab=focus", "description": "Today's habits" },
+    { "name": "Analytics", "url": "/?tab=analytics", "description": "View progress charts" }
+  ]
+}
